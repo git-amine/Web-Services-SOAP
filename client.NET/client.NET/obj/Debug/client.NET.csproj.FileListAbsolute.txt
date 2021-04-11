@@ -1,0 +1,7 @@
+C:\Users\Pc\source\repos\client.NET\client.NET\bin\Debug\client.NET.exe.config
+C:\Users\Pc\source\repos\client.NET\client.NET\bin\Debug\client.NET.exe
+C:\Users\Pc\source\repos\client.NET\client.NET\bin\Debug\client.NET.pdb
+C:\Users\Pc\source\repos\client.NET\client.NET\obj\Debug\client.NET.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\client.NET\client.NET\obj\Debug\client.NET.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\client.NET\client.NET\obj\Debug\client.NET.exe
+C:\Users\Pc\source\repos\client.NET\client.NET\obj\Debug\client.NET.pdb
